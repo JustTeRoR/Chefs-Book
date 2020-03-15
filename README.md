@@ -6,7 +6,10 @@ Android-приложение для поиска рецептов по кате�
 ## Back-end 
 Для удобства разработки серверная сторона приложения будет разрабатываться в отдельном репозитории [here](https://github.com/JustTeRoR/Chefs-Book-BackEnd-) 
 
+## Документация
+[Курсовая](https://github.com/JustTeRoR/Chefs-Book/blob/documents/Documentation/Kursovaya.docx)
 
+[ТЗ](https://github.com/JustTeRoR/Chefs-Book/blob/documents/Documentation/TecnicalTask.docx)
 
 ## Ссылки
 [Trello](https://trello.com/b/vCNA7XnV/chefs-book)
