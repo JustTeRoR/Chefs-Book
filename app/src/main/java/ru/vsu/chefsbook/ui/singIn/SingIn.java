@@ -1,4 +1,4 @@
-package ru.vsu.chefsbook.ui.singIn;
+package ru.vsu.chefsbook.ui.SingIn;
 
 public class SingIn {
 }
