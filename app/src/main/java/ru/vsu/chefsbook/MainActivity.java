@@ -7,21 +7,13 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import ru.vsu.chefsbook.ui.FavouriteMeals.FavouriteMealsActivity;
-import ru.vsu.chefsbook.ui.SearchMeal.SearchMealActivity;
-import ru.vsu.chefsbook.ui.SingIn.SingInActivity;
 
 
-import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInClient;
-import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-
 
 
 public class MainActivity extends AppCompatActivity {
