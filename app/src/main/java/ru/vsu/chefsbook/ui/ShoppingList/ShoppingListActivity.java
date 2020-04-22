@@ -1,0 +1,16 @@
+package ru.vsu.chefsbook.ui.ShoppingList;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+import ru.vsu.chefsbook.R;
+
+public class ShoppingListActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_shopping_list);
+    }
+}
