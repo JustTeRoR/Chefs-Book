@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200356366090",
+    "firebase_url": "https://hefs-book.firebaseio.com",
+    "project_id": "hefs-book",
+    "storage_bucket": "hefs-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200356366090:android:43e4c7e8e85a4236ea1cf3",
+        "android_client_info": {
+          "package_name": "ru.vsu.chefsbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200356366090-5a6r80q281rqff6mg9i6j0qg8j1v5mf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbryy3WwJ9M9mb_mApMdbJcsdFcnET1uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200356366090-5a6r80q281rqff6mg9i6j0qg8j1v5mf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
