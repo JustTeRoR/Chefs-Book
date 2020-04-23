@@ -6,21 +6,23 @@ import android.content.Intent;
 import com.google.android.gms.auth.api.signin.GoogleSignIn;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 
+import ru.vsu.chefsbook.ui.main.MainActivity;
+
 public class App extends Application {
 
-    private static App intance;
+    private static App instance;
 
     //TODO: Update url to the api here when in will be finished
     public static final String BASE_URL = "";
 
     public static App getInstance() {
-        return intance;
+        return instance;
     }
 
     @Override
     public void onCreate() {
         super.onCreate();
-        intance = this;
+        instance = this;
 
 
         GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);

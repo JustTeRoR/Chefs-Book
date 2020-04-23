@@ -3,4 +3,8 @@
     <string name="loginText">Войдите с помощью Google Account.</string>
     <string name="cancel"><u>Отмена</u></string>
     <string name="signIn">Войти</string>
+    <string name="failedToSignIn">Не удалось войти</string>
+    <string name="signInSettings">Войти в Google Account</string>
+    <string name="signOutSettings">Выйти из Google Account</string>
+    <string name="successfullySignedOut">Вы вышли из вашего аккаунта</string>
 </resources>
