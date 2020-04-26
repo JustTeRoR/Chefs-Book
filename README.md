@@ -15,3 +15,5 @@ Android-приложение для поиска рецептов по кате�
 [Trello](https://trello.com/b/vCNA7XnV/chefs-book)
 
 [RealTimeBoard](https://miro.com/app/board/o9J_kukXtrs=/)
+
+[Отчет по ролям](https://github.com/JustTeRoR/Chefs-Book/blob/documents/Documentation/Otchet_po_rolyam.docx)
