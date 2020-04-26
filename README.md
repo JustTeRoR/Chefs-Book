@@ -17,3 +17,5 @@ Android-приложение для поиска рецептов по кате�
 [RealTimeBoard](https://miro.com/app/board/o9J_kukXtrs=/)
 
 [Отчет по ролям](https://github.com/JustTeRoR/Chefs-Book/blob/documents/Documentation/Otchet_po_rolyam.docx)
+
+[Analytics](https://github.com/JustTeRoR/Chefs-Book/blob/documents/Documentation/statystics.png)
