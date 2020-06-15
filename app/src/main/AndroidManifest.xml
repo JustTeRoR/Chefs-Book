@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.justterror.chefbook">
+    package="com.haerful.foodapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -11,8 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+
         <activity
-            android:name="com.justterror.chefbook.view.home.HomeActivity"
+            android:name="com.haerful.foodapp.view.home.HomeActivity"
             android:theme="@style/AppTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,13 +24,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.justterror.chefbook.view.category.CategoryActivity"
+            android:name="com.haerful.foodapp.view.category.CategoryActivity"
             android:theme="@style/AppTheme"
             android:screenOrientation="portrait"
             android:label="Category"/>
 
         <activity
-            android:name="com.justterror.chefbook.view.detail.DetailActivity"
+            android:name="com.haerful.foodapp.view.detail.DetailActivity"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
