@@ -15,3 +15,5 @@ Android-приложение для поиска рецептов по кате�
 [Trello](https://trello.com/b/vCNA7XnV/chefs-book)
 
 [RealTimeBoard](https://miro.com/app/board/o9J_kukXtrs=/)
+
+[SWAGGER] (https://app.swaggerhub.com/apis/ChefsBookSupportTeam/ChefsBookAPI/1.0.0-oas3#trial)
