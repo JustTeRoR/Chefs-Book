@@ -1,6 +1,8 @@
 package com.haerful.foodapp.view.detail;
 
+import android.os.Build;
 import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 
 import com.haerful.foodapp.Utils;
 import com.haerful.foodapp.model.Meal;
@@ -19,6 +21,7 @@ public class DetailPresenter {
         this.view = view;
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
     void getMealById(String mealName) {
         
         view.showLoading();

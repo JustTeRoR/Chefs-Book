@@ -13,8 +13,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class FoodClient {
 
-    private static final String BASE_URL = " https://92f936ad319c.ngrok.io/chefsbook/api/";
-    private  static String token = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqdXN0dGVycm9yIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTU5MjM1OTc4N30.PH42IiEto0ZaMisUgPZtS4L5HjxzHBLGbY9ArHaXSoS0VZ8UvFGSAfwRncQ_yDiGHL9FfofB9dlBwGJfdz0rWA";
+    private static final String BASE_URL = "http://0856da4233e4.ngrok.io/chefsbook/api/";
+    private  static String token = "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJqdXN0dGVycm9yIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTU5MjQ0NDU1MX0.oqLrITb0jLIqtIB9be8ygH9lEtsK6Ld2q3oGA5qONeeGjHb89pU2yLiNLOu9JCXyc4gwFi1GWxIAof446YRujg";
 
     public static Retrofit getFoodClient() {
         return new Retrofit.Builder().baseUrl(BASE_URL)
