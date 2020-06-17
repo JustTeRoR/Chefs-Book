@@ -10,4 +10,8 @@
     <string name="youtube">YOUTUBE</string>
     <string name="source">SOURCE</string>
     <string name="favorite">Favorite</string>
+    <string name="invite_to_login">Войдите в свою учетную запись</string>
+    <string name="invite_to_input_username">Введите логин</string>
+    <string name="invite_to_input_password">Введите пароль</string>
+    <string name="invite_to_log_in">Войти в аккаунт</string>
 </resources>
