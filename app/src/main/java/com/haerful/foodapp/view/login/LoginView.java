@@ -5,6 +5,6 @@ import com.haerful.foodapp.model.Meal;
 public interface LoginView {
     void showLoading();
     void hideLoading();
-    void getLoginInfo(String token);
+    void getLoginInfo(String userJWTtoken);
     void onErrorLoading(String message);
 }
