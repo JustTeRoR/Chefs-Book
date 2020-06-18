@@ -27,6 +27,7 @@ public class ViewPagerCategoryAdapter extends FragmentPagerAdapter {
         args.putString("EXTRA_DATA_NAME", categories.get(i).getEnglishname());
         args.putString("EXTRA_DATA_DESC", categories.get(i).getDescription());
         args.putString("EXTRA_DATA_IMAGE", categories.get(i).getImageurl());
+        args.putString("EXTRA_DATA_RUSSIAN_NAME", categories.get(i).getName());
         fragment.setArguments(args);
         return fragment;
     }

@@ -12,7 +12,6 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 public interface FoodApi {
-    //using this because don't have rights for full subscribe of API
     @GET("meal/")
     Call<List<Meal>> getMeal();
 
