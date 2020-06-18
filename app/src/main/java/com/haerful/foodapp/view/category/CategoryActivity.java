@@ -35,7 +35,6 @@ public class CategoryActivity extends AppCompatActivity {
 
         initActionBar();
         initIntent();
-        
     }
 
     private void initIntent() {
@@ -57,6 +56,7 @@ public class CategoryActivity extends AppCompatActivity {
     private void initActionBar() {
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
+            getSupportActionBar().setTitle("Категория");
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
     }

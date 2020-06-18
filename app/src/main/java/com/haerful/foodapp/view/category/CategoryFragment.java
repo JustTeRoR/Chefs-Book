@@ -66,7 +66,7 @@ public class CategoryFragment extends Fragment implements CategoryView {
                     .load(getArguments().getString("EXTRA_DATA_IMAGE"))
                     .into(imageCategoryBg);
             descDialog = new AlertDialog.Builder(getActivity())
-                    .setTitle(getArguments().getString("EXTRA_DATA_NAME"))
+                    .setTitle(getArguments().getString("EXTRA_DATA_RUSSIAN_NAME"))
                     .setMessage(getArguments().getString("EXTRA_DATA_DESC"));
             
             CategoryPresenter presenter = new CategoryPresenter(this);
