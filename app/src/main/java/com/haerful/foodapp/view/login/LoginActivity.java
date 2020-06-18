@@ -3,7 +3,6 @@ package com.haerful.foodapp.view.login;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
@@ -42,8 +41,6 @@ public class LoginActivity extends AppCompatActivity implements LoginView {
             String password = inputPassword.getText().toString();
             presenter.getLoginInfo(username, password);
 
-            Intent intent = new Intent(this, HomeActivity.class);
-            startActivity(intent);
         });
     }
 
@@ -61,6 +58,8 @@ public class LoginActivity extends AppCompatActivity implements LoginView {
     @Override
     public void getLoginInfo(String userJWTtoken) {
         FoodClient.token = userJWTtoken;
+        Intent intent = new Intent(this, HomeActivity.class);
+        startActivity(intent);
     }
 
     @Override
