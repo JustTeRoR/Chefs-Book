@@ -13,7 +13,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class FoodClient {
 
-    private static final String BASE_URL = "https://49c589f65075.ngrok.io/chefsbook/api/";
+    private static final String BASE_URL = "https://c302d9a18119.ngrok.io/chefsbook/api/";
     public  static String token = "";
 
     public static Retrofit getFoodClient() {
