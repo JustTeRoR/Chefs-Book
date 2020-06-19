@@ -29,3 +29,5 @@ Android-приложение для поиска рецептов по кате�
 [SWAGGER](https://app.swaggerhub.com/apis/ChefsBookSupportTeam/ChefsBookAPI/1.0.0-oas3#trial)
 
 [VideoDemonstration of project](https://drive.google.com/drive/folders/1WeONLGOxgc99p8igj1E8YFicGTlCNvdl)
+
+[PRESENTATION OF OUR PROJECT](https://youtu.be/YYkqxNRxyeA)
