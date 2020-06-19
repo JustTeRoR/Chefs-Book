@@ -1,13 +1,17 @@
 <resources>
     <string name="app_name">Chef\'s Book</string>
-    <string name="search_your_recipes">Search Your Recipes…</string>
-    <string name="meal_categories">Meal Categories</string>
-    <string name="category">Category</string>
-    <string name="country">Country</string>
-    <string name="instructions">INSTRUCTIONS</string>
+    <string name="search_your_recipes">Начните поиск рецепта…</string>
+    <string name="meal_categories">Категории блюд</string>
+    <string name="category">Категория</string>
+    <string name="country">Страна</string>
+    <string name="instructions">Рецепт</string>
     <string name="dot_loading">...</string>
-    <string name="Ingredients">INGREDIENTS</string>
+    <string name="Ingredients">Ингридиенты</string>
     <string name="youtube">YOUTUBE</string>
     <string name="source">SOURCE</string>
-    <string name="favorite">Favorite</string>
+    <string name="favorite">Избранное</string>
+    <string name="invite_to_login">Войдите в свою учетную запись</string>
+    <string name="invite_to_input_username">Введите логин</string>
+    <string name="invite_to_input_password">Введите пароль</string>
+    <string name="invite_to_log_in">Войти в аккаунт</string>
 </resources>

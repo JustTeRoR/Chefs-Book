@@ -43,7 +43,7 @@ public class RecyclerViewHomeAdapter extends RecyclerView.Adapter<RecyclerViewHo
         String strCategoryThum = categories.get(i).getImageurl();
         Picasso.get().load(strCategoryThum).placeholder(R.drawable.ic_circle).into(viewHolder.categoryThumb);
 
-        String strCategoryName = categories.get(i). getName();
+        String strCategoryName = categories.get(i).getName();
         viewHolder.categoryName.setText(strCategoryName);
     }
 
