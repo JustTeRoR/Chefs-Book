@@ -10,7 +10,10 @@ Android-приложение для поиска рецептов по кате�
 [Курсовая](https://github.com/JustTeRoR/Chefs-Book/blob/master/Documentation/Kursovaya.docx)
 
 [ТЗ](https://github.com/JustTeRoR/Chefs-Book/blob/master/Documentation/TecnicalTask.docx)
+
 [Набор диаграмм](https://github.com/JustTeRoR/Chefs-Book/tree/master/Documentation/Диаграммы)
+
+[Презентация](https://github.com/JustTeRoR/Chefs-Book/tree/master/Documentation/PrezentatsiaChefsBook.pptx)
 
 ## Ссылки
 [Trello](https://trello.com/b/vCNA7XnV/chefs-book)
