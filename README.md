@@ -16,4 +16,6 @@ Android-приложение для поиска рецептов по кате�
 
 [RealTimeBoard](https://miro.com/app/board/o9J_kukXtrs=/)
 
-[SWAGGER] (https://app.swaggerhub.com/apis/ChefsBookSupportTeam/ChefsBookAPI/1.0.0-oas3#trial)
+[SWAGGER](https://app.swaggerhub.com/apis/ChefsBookSupportTeam/ChefsBookAPI/1.0.0-oas3#trial)
+
+[VideoDemonstration of project](https://drive.google.com/drive/folders/1WeONLGOxgc99p8igj1E8YFicGTlCNvdl)
